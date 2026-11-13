@@ -5,7 +5,7 @@
 I build forecasts, optimisation models and data pipelines, and I measure whether they work: every project below states its baseline, its test and its result.
 
 **Open to co-op and internship roles for Winter 2027 and Summer 2027.**
-[Portfolio](https://vishchalla.github.io) · [LinkedIn](https://www.linkedin.com/in/vish-challa-b3073b273/) · [Email](mailto:challa.vish7@gmail.com)
+[Portfolio](https://vishchalla.github.io) · [LinkedIn](https://www.linkedin.com/in/vishchalla/) · [Email](mailto:challa.vish7@gmail.com)
 
 ## Featured work
 
